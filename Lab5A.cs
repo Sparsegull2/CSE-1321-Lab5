@@ -22,7 +22,7 @@ class Lab5A
             char license=char.Parse(Console.ReadLine());
             if (license == 'Y' || license == 'y')
             {
-                Console.WriteLine("Congratulations! You can purchase a vehicle, let’s start talking options!");
+                Console.WriteLine("Congratulations! You can purchase a vehicle, let's start talking options!");
             }
             else
             {
